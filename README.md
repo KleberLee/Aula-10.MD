@@ -17,4 +17,5 @@ A evolução das redes de computadores é marcada por marcos históricos signifi
 **Código:** representa o conjunto de signos que serão utilizados na mensagem.
 **Canal de Comunicação:** corresponde ao local (meio) onde a mensagem será transmitida, por exemplo, jornal, livro, revista, televisão, telefone, dentre outros
 
+### 3. Classificação de Redes
 ![](https://n0tes.fr/2022/03/10/LAN-MAN-WAN-et-le-reste/reseau03.png)
